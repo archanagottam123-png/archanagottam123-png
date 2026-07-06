@@ -117,3 +117,4 @@ I'm a Computer Science student passionate about building software solutions and 
 ⭐ *"Code. Learn. Build. Repeat."*
 
 
+![Snake animation](https://github.com/archanagottam123-png/archanagottam123-png/blob/output/github-contribution-grid-snake.svg)
