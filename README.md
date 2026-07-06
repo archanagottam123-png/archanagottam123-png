@@ -89,7 +89,6 @@ I'm a Computer Science student passionate about building software solutions and 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=archanagottam123-png&theme=tokyonight"/>
 </p>
-
 ---
 
 ## 🏆 Achievements
@@ -120,4 +119,8 @@ I'm a Computer Science student passionate about building software solutions and 
 ⭐ *"Code. Learn. Build. Repeat."*
 
 
-![Snake animation](https://github.com/archanagottam123-png/archanagottam123-png/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/archanagottam123-png/archanagottam123-png/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
