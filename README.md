@@ -8,13 +8,12 @@ I'm a Computer Science student passionate about building software solutions and 
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Interested in Java, Python, SQL, and Web Development
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* 🌱 Currently learning Spring Boot, Hibernate, and Data Structures & Algorithms
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
-* 💼 Open to Internship and Full-Time Software Developer opportunities
-
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Java, Python, SQL, and Web Development
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Spring Boot, Hibernate, and Data Structures & Algorithms
+- 📫 Reach me at: **archanagottam123@gmail.com**
+- 💼 Open to Internship and Full-Time Software Developer opportunities
 ---
 
 ## 🛠️ Tech Stack
