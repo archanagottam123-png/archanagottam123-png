@@ -122,5 +122,5 @@ I'm a Computer Science student passionate about building software solutions and 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/archanagottam123-png/archanagottam123-png/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/archanagottam123-png/archanagottam123-png/output/github-contribution-grid-snake.svg">
 </p>
