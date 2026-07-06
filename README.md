@@ -81,11 +81,14 @@ I'm a Computer Science student passionate about building software solutions and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archanagottam123-png&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanagottam123-png&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=archanagottam123-png&theme=tokyonight"/>
+</p>
 
 ---
 
