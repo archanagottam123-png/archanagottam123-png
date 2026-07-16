@@ -20,8 +20,6 @@ I'm a Computer Science student passionate about building software solutions and 
 
 ### Programming Languages
 
-portflio:https://archanagottam123-png.github.io/Archana.Portfolio/
-
 * Java
 * Python
 * C
@@ -117,6 +115,7 @@ portflio:https://archanagottam123-png.github.io/Archana.Portfolio/
 - 💻 **GitHub:** https://github.com/archanagottam123-png
 - 💼 **LinkedIn:** https://www.linkedin.com/in/g-archana-951985361
 - 📧 **Email:** archanagottam123@gmail.com
+-    **portflio:https://archanagottam123-png.github.io/Archana.Portfolio/
 
 ⭐ *"Code. Learn. Build. Repeat."*
 
